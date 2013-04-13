@@ -1,1 +1,3 @@
 cdma mms receiving fix
+
+location: frameworks/opt/telephony/java/com/android/internal/telephony
